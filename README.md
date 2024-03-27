@@ -1,16 +1,16 @@
 # TechPeach
 2TDSPJ - Challenge - 2024
 
-               TechPeach - Descrição do Projeto
+                                                                          TechPeach - Descrição do Projeto
 
-             Descrição do problema a resolver
+                                                                          Descrição do problema a resolver
 
 Empresas como Booking.com, Airbnb, Expedia, TripAdvisor e Google Viagens estão constantemente buscando maneiras de oferecer experiências mais personalizadas e memoráveis para os viajantes. No entanto, a vasta quantidade de opções de destinos, atividades e serviços disponíveis torna desafiador para os viajantes encontrar itinerários que atendam às suas preferências individuais. Além disso, as preferências dos viajantes podem ser altamente subjetivas e variáveis, tornando ainda mais complexa a tarefa de personalização.
 Atualmente, os sistemas de recomendação existentes muitas vezes se baseiam em abordagens simples, como histórico de navegação ou preferências declaradas, o que pode não capturar adequadamente as nuances das preferências individuais dos viajantes. Isso pode resultar em recomendações imprecisas ou genéricas, que não conseguem oferecer uma experiência verdadeiramente personalizada.
 Portanto, o desafio reside em desenvolver um sistema de recomendação mais avançado e eficaz, que possa utilizar inteligência artificial generativa e deep analytics para analisar dados em grande escala e criar itinerários de viagem altamente personalizados. Este sistema deve ser capaz de compreender e interpretar as preferências individuais dos viajantes com base em uma variedade de fontes de dados, como histórico de viagens, interações nas redes sociais, preferências de atividades, orçamento disponível, entre outros.
 Ao resolver esse problema, espera-se proporcionar aos viajantes experiências turísticas mais gratificantes e alinhadas com suas expectativas individuais, aumentando assim a satisfação do cliente, a fidelidade à marca e o sucesso geral do setor de turismo.
 
-                 Descrição dos Objetivos da Solução Idealizada:
+                                                                      Descrição dos Objetivos da Solução Idealizada:
 
 Personalização Excepcional: O principal objetivo da solução é elevar o nível de personalização dos itinerários de viagem, proporcionando recomendações que se adaptem de forma precisa e holística às preferências individuais dos viajantes. Isso implica não apenas atender às necessidades básicas de viagem, mas também antecipar e satisfazer os desejos e interesses específicos de cada cliente, garantindo uma experiência verdadeiramente única.
 Integração Avançada de Tecnologias: A solução busca integrar de forma avançada tecnologias de inteligência artificial generativa e deep analytics. Ao fazer isso, visa explorar dados em escala e complexidade, permitindo análises sofisticadas que revelam insights valiosos sobre as preferências dos viajantes. Isso não só enriquecerá a qualidade das recomendações, mas também possibilitará uma adaptação contínua com base no feedback e nas interações dos clientes.
@@ -19,8 +19,7 @@ Estímulo à Fidelidade e ao Engajamento: A solução almeja cultivar a fidelida
 Eficiência Operacional e Econômica: Além de atender às necessidades dos clientes, a solução também busca otimizar a eficiência operacional e econômica. Isso inclui a capacidade de oferecer recomendações que estejam alinhadas com os recursos disponíveis, maximizando o valor gerado para os clientes e para o negócio. Ao fazer isso, a solução se torna não apenas uma fonte de satisfação do cliente, mas também um impulsionador de resultados financeiros positivos.
 
 
-
-              Definição do público alvo que comprará (cliente/pagante) e/ou usará a solução (consumidor)
+          Definição do público alvo que comprará (cliente/pagante) e/ou usará a solução (consumidor)
 O público-alvo para a solução proposta consiste em duas categorias principais: os compradores, que são as entidades ou empresas que adquirem a solução para integrá-la em seus serviços ou plataformas de viagens, e os usuários/consumidores, que são os viajantes que se beneficiarão diretamente da personalização dos itinerários de viagem. Aqui está uma definição mais detalhada de cada categoria:
 
 1. Compradores (Cliente/Pagante):
@@ -38,7 +37,7 @@ O público-alvo para a solução proposta consiste em duas categorias principais
 
 Em resumo, o público-alvo inclui tanto as entidades que adquirem a solução para incorporá-la em seus serviços de viagens, quanto os próprios viajantes que desejam experiências de viagem mais personalizadas e satisfatórias.
 
-          Estudo de produtos semelhantes já existentes no mercado (que solucionam o mesmo problema, mesmo que de forma diferente, parcial ou totalmente) 
+                 Estudo de produtos semelhantes já existentes no mercado (que solucionam o mesmo problema, mesmo que de forma diferente, parcial ou totalmente) 
 
 TripAdvisor: O TripAdvisor é uma plataforma popular que oferece avaliações de hotéis, restaurantes e atrações turísticas, além de fornecer recomendações personalizadas com base nas preferências dos usuários. Embora não utilize inteligência artificial generativa, ele emprega algoritmos de recomendação e análise de dados para sugerir atividades e destinos com base no histórico de navegação e nas interações dos usuários.
 Google Viagens: O Google Viagens oferece uma variedade de recursos para planejar e organizar viagens, incluindo a recomendação de destinos, voos, hotéis e atividades com base nas pesquisas anteriores e nas preferências do usuário. Ele utiliza algoritmos de aprendizado de máquina para personalizar as sugestões de viagem e fornecer insights úteis, como preços de voos e condições climáticas.
@@ -48,7 +47,7 @@ Kayak: O Kayak é um mecanismo de busca de viagens que compara preços e opçõe
 Esses produtos no mercado compartilham o objetivo de fornecer aos viajantes recomendações e informações relevantes para planejar e personalizar suas viagens. Embora possam não utilizar diretamente inteligência artificial generativa e deep analytics, eles demonstram a demanda por soluções que ajudem os viajantes a encontrar experiências turísticas mais adequadas às suas preferências individuais.
 
 
-        Avaliação do potencial de mercado (fatia de mercado a conquistar)
+                                    Avaliação do potencial de mercado (fatia de mercado a conquistar)
 O potencial de mercado para uma solução de personalização de itinerários de viagem baseada em inteligência artificial generativa e deep analytics é significativo e promissor. Aqui estão alguns pontos-chave a considerar ao avaliar a fatia de mercado a conquistar da nossa empresa:
 Tendências de Mercado: O setor de viagens está em constante crescimento, impulsionado pelo aumento da disponibilidade de opções de viagens, avanços tecnológicos e mudanças nas preferências dos consumidores. A demanda por experiências de viagem personalizadas está em alta, com os viajantes buscando itinerários adaptados às suas preferências individuais.
 Concorrência: Embora existam produtos e serviços semelhantes no mercado, como mencionado no estudo de produtos semelhantes, a maioria dessas soluções não utiliza inteligência artificial generativa e deep analytics para personalização avançada. Isso oferece uma oportunidade única de diferenciar-se da concorrência e capturar uma fatia significativa do mercado por meio de uma oferta inovadora e altamente personalizada.
