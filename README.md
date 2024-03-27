@@ -2,7 +2,7 @@
 2TDSPJ - Challenge - 2024
 
                                       TechPeach - Descrição do Projeto
-
+![image](https://github.com/AlleSilvaa/TechPeach/assets/126684613/9783be37-be88-4a69-9629-dbc7f67624d6)
                                       Descrição do problema a resolver
 
 Empresas como Booking.com, Airbnb, Expedia, TripAdvisor e Google Viagens estão constantemente buscando maneiras de oferecer experiências mais personalizadas e memoráveis para os viajantes. No entanto, a vasta quantidade de opções de destinos, atividades e serviços disponíveis torna desafiador para os viajantes encontrar itinerários que atendam às suas preferências individuais. Além disso, as preferências dos viajantes podem ser altamente subjetivas e variáveis, tornando ainda mais complexa a tarefa de personalização.
