@@ -2,6 +2,7 @@
 2TDSPJ - Challenge - 2024
 
                                       TechPeach - Descrição do Projeto
+![image](https://github.com/AlleSilvaa/TechPeach/assets/126684613/f1324216-6d86-490d-9d5d-029749c199fe)
 
                                       Descrição do problema a resolver
 
