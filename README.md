@@ -1,16 +1,16 @@
 # TechPeach
 2TDSPJ - Challenge - 2024
 
-                                                                          TechPeach - Descrição do Projeto
+                                             TechPeach - Descrição do Projeto
 
-                                                                          Descrição do problema a resolver
+                                            Descrição do problema a resolver
 
 Empresas como Booking.com, Airbnb, Expedia, TripAdvisor e Google Viagens estão constantemente buscando maneiras de oferecer experiências mais personalizadas e memoráveis para os viajantes. No entanto, a vasta quantidade de opções de destinos, atividades e serviços disponíveis torna desafiador para os viajantes encontrar itinerários que atendam às suas preferências individuais. Além disso, as preferências dos viajantes podem ser altamente subjetivas e variáveis, tornando ainda mais complexa a tarefa de personalização.
 Atualmente, os sistemas de recomendação existentes muitas vezes se baseiam em abordagens simples, como histórico de navegação ou preferências declaradas, o que pode não capturar adequadamente as nuances das preferências individuais dos viajantes. Isso pode resultar em recomendações imprecisas ou genéricas, que não conseguem oferecer uma experiência verdadeiramente personalizada.
 Portanto, o desafio reside em desenvolver um sistema de recomendação mais avançado e eficaz, que possa utilizar inteligência artificial generativa e deep analytics para analisar dados em grande escala e criar itinerários de viagem altamente personalizados. Este sistema deve ser capaz de compreender e interpretar as preferências individuais dos viajantes com base em uma variedade de fontes de dados, como histórico de viagens, interações nas redes sociais, preferências de atividades, orçamento disponível, entre outros.
 Ao resolver esse problema, espera-se proporcionar aos viajantes experiências turísticas mais gratificantes e alinhadas com suas expectativas individuais, aumentando assim a satisfação do cliente, a fidelidade à marca e o sucesso geral do setor de turismo.
 
-                                                                      Descrição dos Objetivos da Solução Idealizada:
+                                         Descrição dos Objetivos da Solução Idealizada:
 
 Personalização Excepcional: O principal objetivo da solução é elevar o nível de personalização dos itinerários de viagem, proporcionando recomendações que se adaptem de forma precisa e holística às preferências individuais dos viajantes. Isso implica não apenas atender às necessidades básicas de viagem, mas também antecipar e satisfazer os desejos e interesses específicos de cada cliente, garantindo uma experiência verdadeiramente única.
 Integração Avançada de Tecnologias: A solução busca integrar de forma avançada tecnologias de inteligência artificial generativa e deep analytics. Ao fazer isso, visa explorar dados em escala e complexidade, permitindo análises sofisticadas que revelam insights valiosos sobre as preferências dos viajantes. Isso não só enriquecerá a qualidade das recomendações, mas também possibilitará uma adaptação contínua com base no feedback e nas interações dos clientes.
