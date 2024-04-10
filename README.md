@@ -5,39 +5,43 @@
 ![image](https://github.com/AlleSilvaa/TechPeach/assets/126684613/9783be37-be88-4a69-9629-dbc7f67624d6)
                                       Descrição do problema a resolver
 
-Empresas como Booking.com, Airbnb, Expedia, TripAdvisor e Google Viagens estão constantemente buscando maneiras de oferecer experiências mais personalizadas e memoráveis para os viajantes. No entanto, a vasta quantidade de opções de destinos, atividades e serviços disponíveis torna desafiador para os viajantes encontrar itinerários que atendam às suas preferências individuais. Além disso, as preferências dos viajantes podem ser altamente subjetivas e variáveis, tornando ainda mais complexa a tarefa de personalização.
-Atualmente, os sistemas de recomendação existentes muitas vezes se baseiam em abordagens simples, como histórico de navegação ou preferências declaradas, o que pode não capturar adequadamente as nuances das preferências individuais dos viajantes. Isso pode resultar em recomendações imprecisas ou genéricas, que não conseguem oferecer uma experiência verdadeiramente personalizada.
-Portanto, o desafio reside em desenvolver um sistema de recomendação mais avançado e eficaz, que possa utilizar inteligência artificial generativa e deep analytics para analisar dados em grande escala e criar itinerários de viagem altamente personalizados. Este sistema deve ser capaz de compreender e interpretar as preferências individuais dos viajantes com base em uma variedade de fontes de dados, como histórico de viagens, interações nas redes sociais, preferências de atividades, orçamento disponível, entre outros.
-Ao resolver esse problema, espera-se proporcionar aos viajantes experiências turísticas mais gratificantes e alinhadas com suas expectativas individuais, aumentando assim a satisfação do cliente, a fidelidade à marca e o sucesso geral do setor de turismo.
+O TechPeach utiliza inteligência artificial e análise de dados para compreender detalhadamente as preferências dos usuários, gerando itinerários sob medida adaptados às suas preferências. Além disso, estabelece parcerias com estabelecimentos locais para oferecer ofertas especiais aos usuários, proporcionando uma experiência de viagem mais gratificante e alinhada com suas expectativas.
 
-                                   Descrição dos Objetivos da Solução Idealizada:
-
-Personalização Excepcional: O principal objetivo da solução é elevar o nível de personalização dos itinerários de viagem, proporcionando recomendações que se adaptem de forma precisa e holística às preferências individuais dos viajantes. Isso implica não apenas atender às necessidades básicas de viagem, mas também antecipar e satisfazer os desejos e interesses específicos de cada cliente, garantindo uma experiência verdadeiramente única.
-Integração Avançada de Tecnologias: A solução busca integrar de forma avançada tecnologias de inteligência artificial generativa e deep analytics. Ao fazer isso, visa explorar dados em escala e complexidade, permitindo análises sofisticadas que revelam insights valiosos sobre as preferências dos viajantes. Isso não só enriquecerá a qualidade das recomendações, mas também possibilitará uma adaptação contínua com base no feedback e nas interações dos clientes.
-Aprimoramento da Experiência do Cliente: O cerne da solução é melhorar significativamente a experiência do cliente. Ao oferecer itinerários altamente personalizados e adaptados, espera-se não apenas satisfazer as expectativas dos viajantes, mas também surpreendê-los positivamente. Isso resultará em uma maior satisfação, promovendo a fidelidade à marca e ampliando o alcance por meio de recomendações boca a boca positivas.
-Estímulo à Fidelidade e ao Engajamento: A solução almeja cultivar a fidelidade do cliente, criando laços emocionais e proporcionando experiências excepcionais que inspirem confiança e lealdade. Ao mesmo tempo, visa promover o engajamento contínuo, incentivando os clientes a retornar para novas viagens e a compartilhar suas experiências, contribuindo para uma comunidade de viajantes interconectados e engajados.
-Eficiência Operacional e Econômica: Além de atender às necessidades dos clientes, a solução também busca otimizar a eficiência operacional e econômica. Isso inclui a capacidade de oferecer recomendações que estejam alinhadas com os recursos disponíveis, maximizando o valor gerado para os clientes e para o negócio. Ao fazer isso, a solução se torna não apenas uma fonte de satisfação do cliente, mas também um impulsionador de resultados financeiros positivos.
+Essa abordagem não só simplifica o planejamento da viagem, mas também aumenta a satisfação do cliente, impulsionando a inovação no setor de turismo. O TechPeach promove uma conexão mais significativa entre viajantes e destinos, permitindo que descubram experiências autênticas e exclusivas. Com uma plataforma intuitiva e interativa, os usuários podem explorar e reservar atividades personalizadas de forma conveniente, elevando suas expectativas e proporcionando jornadas memoráveis. Essa inovação não apenas impulsiona o sucesso do TechPeach, mas também redefine os padrões de excelência no planejamento de viagens personalizadas.
 
 
-               Definição do público alvo que comprará (cliente/pagante) e/ou usará a solução (consumidor)
-O público-alvo para a solução proposta consiste em duas categorias principais: os compradores, que são as entidades ou empresas que adquirem a solução para integrá-la em seus serviços ou plataformas de viagens, e os usuários/consumidores, que são os viajantes que se beneficiarão diretamente da personalização dos itinerários de viagem. Aqui está uma definição mais detalhada de cada categoria:
+           Descrição dos objetivos da solução idealizada (peso 20%)
 
-1. Compradores (Cliente/Pagante):
-   - Agências de viagens online, como Booking.com, Expedia e Airbnb.
-   - Plataformas de reserva de hospedagem, como Hoteis.com e Hostelworld.
-   - Empresas de tecnologia que oferecem soluções para o setor de turismo, como Google Viagens e Tripadvisor.
-   - Operadoras turísticas que desejam integrar sistemas de recomendação avançados em seus serviços.
-   - Empresas de transporte, como companhias aéreas e serviços de aluguel de carros, que buscam melhorar a experiência do cliente através da personalização de itinerários.
+Existem várias plataformas e serviços no mercado que buscam solucionar desafios semelhantes ao do TechPeach, oferecendo recomendações personalizadas e facilitando o planejamento de viagens. Abaixo estão alguns exemplos de produtos e soluções semelhantes:
 
-2. Usuários/Consumidores:
-   - Viajantes frequentes que buscam experiências personalizadas e únicas durante suas viagens.
-   - Turistas que desejam explorar novos destinos de acordo com seus interesses e preferências individuais.
-   - Grupos familiares ou de amigos que procuram itinerários de viagem que atendam às necessidades e gostos de todos os membros.
-   - Viajantes corporativos que necessitam de itinerários adaptados às suas restrições de tempo e orçamento, mas também desejam desfrutar de momentos de lazer personalizados durante suas viagens de negócios.
+TripAdvisor: O TripAdvisor é uma plataforma amplamente conhecida que oferece avaliações de viajantes, recomendações de destinos, restaurantes e atividades. Os usuários podem personalizar suas pesquisas com base em interesses específicos e visualizar itinerários sugeridos por outros viajantes.
 
-Em resumo, o público-alvo inclui tanto as entidades que adquirem a solução para incorporá-la em seus serviços de viagens, quanto os próprios viajantes que desejam experiências de viagem mais personalizadas e satisfatórias.
+Google Viagens: O Google Viagens utiliza inteligência artificial para fornecer informações personalizadas sobre destinos, sugestões de atividades, preços de voos e opções de hospedagem. Ele também permite aos usuários salvar planos de viagem e receber notificações sobre atualizações e ofertas.
 
-                 Estudo de produtos semelhantes já existentes no mercado (que solucionam o mesmo problema, mesmo que de forma diferente, parcial ou totalmente) 
+Expedia: A Expedia é uma plataforma de reservas de viagens que oferece pacotes personalizados de voos, hotéis e aluguel de carros. Os usuários podem explorar destinos, ler avaliações e planejar itinerários de viagem com base em suas preferências.
+
+Airbnb: O Airbnb permite que os viajantes encontrem acomodações únicas e experiências locais em diversas cidades ao redor do mundo. Os usuários podem filtrar suas escolhas com base em interesses específicos e reservar atividades exclusivas organizadas pelos anfitriões.
+
+Embora essas plataformas forneçam soluções valiosas para o planejamento de viagens, o TechPeach se diferencia ao integrar tecnologias avançadas de inteligência artificial e análise de dados para oferecer recomendações altamente personalizadas. O TechPeach se concentra em compreender de forma detalhada as preferências individuais dos usuários e colaborar com estabelecimentos locais para proporcionar experiências exclusivas e ofertas especiais. Essa abordagem inovadora visa elevar o nível de personalização e satisfação do cliente no setor de turismo, oferecendo uma alternativa diferenciada e eficaz para o planejamento de viagens em São Paulo e outras cidades.
+
+
+            Definição do público alvo que comprará (cliente/pagante) e/ou usará a solução (consumidor) (peso 20%)
+
+O público-alvo do TechPeach é composto por viajantes e turistas que desejam uma experiência de viagem personalizada e memorável em São Paulo. Abaixo estão as características do público-alvo para quem a solução foi desenvolvida:
+
+1. Viajantes Individuais e Grupos: O TechPeach atende tanto viajantes individuais como grupos, oferecendo itinerários adaptados às necessidades e preferências de cada perfil de viajante.
+2. Amantes de Experiências Autênticas: A solução é ideal para viajantes que buscam experiências autênticas e locais em São Paulo, incluindo gastronomia local, cultura, arte e atividades únicas.
+3. Usuários de Tecnologia e IA: O público-alvo inclui pessoas familiarizadas e confortáveis com tecnologia, que valorizam a praticidade e a eficiência proporcionadas por soluções baseadas em inteligência artificial.
+4. Viajantes que Valorizam Personalização: O TechPeach é voltado para viajantes que valorizam recomendações personalizadas e desejam explorar a cidade de acordo com seus interesses específicos.
+5. Turistas em Busca de Conveniência e Qualidade: O público-alvo busca uma experiência de viagem conveniente, sem abrir mão da qualidade e da autenticidade nas atividades e locais visitados.
+6. Idade e Demografia Diversificadas: Embora o foco principal seja em viajantes adultos e jovens, o TechPeach pode ser utilizado por uma ampla faixa etária e demografia, adaptando-se às diversas preferências e interesses dos usuários.
+
+Os clientes pagantes incluem não apenas os viajantes individuais, mas também agências de viagens e empresas que desejam oferecer experiências personalizadas aos seus clientes. O TechPeach é projetado para ser acessível e atrativo para qualquer pessoa que valorize uma abordagem inovadora e personalizada para o planejamento de viagens em São Paulo.
+
+
+
+
+              Estudo de produtos semelhantes já existentes no mercado (que solucionam o mesmo problema, mesmo que de forma diferente, parcial ou totalmente) (peso 20%)
 
 TripAdvisor: O TripAdvisor é uma plataforma popular que oferece avaliações de hotéis, restaurantes e atrações turísticas, além de fornecer recomendações personalizadas com base nas preferências dos usuários. Embora não utilize inteligência artificial generativa, ele emprega algoritmos de recomendação e análise de dados para sugerir atividades e destinos com base no histórico de navegação e nas interações dos usuários.
 Google Viagens: O Google Viagens oferece uma variedade de recursos para planejar e organizar viagens, incluindo a recomendação de destinos, voos, hotéis e atividades com base nas pesquisas anteriores e nas preferências do usuário. Ele utiliza algoritmos de aprendizado de máquina para personalizar as sugestões de viagem e fornecer insights úteis, como preços de voos e condições climáticas.
@@ -47,14 +51,20 @@ Kayak: O Kayak é um mecanismo de busca de viagens que compara preços e opçõe
 Esses produtos no mercado compartilham o objetivo de fornecer aos viajantes recomendações e informações relevantes para planejar e personalizar suas viagens. Embora possam não utilizar diretamente inteligência artificial generativa e deep analytics, eles demonstram a demanda por soluções que ajudem os viajantes a encontrar experiências turísticas mais adequadas às suas preferências individuais.
 
 
-                           Avaliação do potencial de mercado (fatia de mercado a conquistar)
-O potencial de mercado para uma solução de personalização de itinerários de viagem baseada em inteligência artificial generativa e deep analytics é significativo e promissor. Aqui estão alguns pontos-chave a considerar ao avaliar a fatia de mercado a conquistar da nossa empresa:
-Tendências de Mercado: O setor de viagens está em constante crescimento, impulsionado pelo aumento da disponibilidade de opções de viagens, avanços tecnológicos e mudanças nas preferências dos consumidores. A demanda por experiências de viagem personalizadas está em alta, com os viajantes buscando itinerários adaptados às suas preferências individuais.
-Concorrência: Embora existam produtos e serviços semelhantes no mercado, como mencionado no estudo de produtos semelhantes, a maioria dessas soluções não utiliza inteligência artificial generativa e deep analytics para personalização avançada. Isso oferece uma oportunidade única de diferenciar-se da concorrência e capturar uma fatia significativa do mercado por meio de uma oferta inovadora e altamente personalizada.
-Ampla Base de Clientes Potenciais: O público-alvo para uma solução de personalização de itinerários de viagem é diversificado e abrangente. Isso inclui agências de viagens online, plataformas de reserva de hospedagem, empresas de tecnologia no setor de turismo, operadoras turísticas, companhias aéreas, viajantes corporativos e turistas individuais. A capacidade de atender às necessidades de uma ampla gama de clientes potenciais aumenta o potencial de mercado.
-Demandas dos Consumidores: Os consumidores estão cada vez mais exigentes em relação às experiências de viagem, buscando personalização, conveniência e qualidade. Uma solução que ofereça itinerários de viagem altamente personalizados e adaptados às preferências individuais dos viajantes tem o potencial de atrair uma base significativa de clientes que valorizam a individualidade e a excelência na experiência do cliente.
-Expansão Global: O mercado de viagens é global, o que significa que uma solução inovadora e eficaz tem potencial para expandir-se para diferentes regiões e mercados em todo o mundo. Isso abre oportunidades adicionais de crescimento e expansão para conquistar uma fatia ainda maior do mercado global de viagens.
-Com base nestes pontos, é razoável esperar que uma solução de personalização de itinerários de viagem baseada em inteligência artificial generativa e deep analytics tenha um potencial significativo para conquistar uma fatia substancial do mercado de viagens, especialmente se conseguir oferecer um valor diferenciado e atender às demandas crescentes dos consumidores por experiências personalizadas e memoráveis.
+              Avaliação do potencial de mercado (fatia de mercado a conquistar) (peso 20%)
+
+O potencial de mercado para o TechPeach é significativo, considerando o crescimento contínuo da indústria de turismo e a demanda crescente por experiências de viagem personalizadas.
+
+Demanda por Experiências Personalizadas: Cada vez mais viajantes buscam experiências únicas e adaptadas às suas preferências individuais. O TechPeach atende essa demanda oferecendo itinerários personalizados que destacam os melhores destinos, atividades e opções de refeições com base nos interesses do viajante.
+
+Adoção de Tecnologia e IA: Com a crescente adoção de tecnologias como inteligência artificial (IA) e aplicativos móveis, há uma oportunidade significativa para o TechPeach conquistar uma fatia do mercado, especialmente entre os viajantes que valorizam a conveniência e a personalização proporcionadas pela tecnologia.
+
+Segmento de Turismo Corporativo: O TechPeach pode atrair agências de viagens corporativas e empresas que organizam viagens de negócios, oferecendo soluções personalizadas para grupos e viajantes a negócios que desejam explorar São Paulo após compromissos profissionais.
+
+Turismo Local e Internacional: O potencial de mercado não se limita apenas a turistas internacionais, mas também inclui residentes locais que buscam explorar sua própria cidade de maneira mais profunda e autêntica.
+
+Considerando esses aspectos, a fatia de mercado a ser conquistada pelo TechPeach dependerá da capacidade de alcançar e engajar os diferentes segmentos de público-alvo. Estratégias de marketing eficazes, parcerias estratégicas e a qualidade da experiência oferecida serão fundamentais para capturar e manter uma parte significativa do mercado de turismo em São Paulo e expandir para outras localidades. Com um produto diferenciado e uma proposta de valor sólida, o TechPeach tem potencial para se destacar e conquistar uma posição de liderança no mercado de viagens personalizadas.
+
  
 ![image](https://github.com/AlleSilvaa/TechPeach/assets/126684613/b6dc95e5-3248-477a-83e4-82d34c95b0f8)
 
