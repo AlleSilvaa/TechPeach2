@@ -3,7 +3,6 @@
 
                                       TechPeach - Descrição do Projeto
 ![image](https://github.com/AlleSilvaa/TechPeach/assets/126684613/f1324216-6d86-490d-9d5d-029749c199fe)
-
                                       Descrição do problema a resolver (peso 20%)
 
 Empresas de viagens como Booking.com, Airbnb, Expedia e TripAdvisor enfrentam o desafio de oferecer recomendações personalizadas em meio a uma ampla variedade de opções. Os sistemas atuais muitas vezes não capturam adequadamente as preferências individuais dos viajantes, resultando em recomendações genéricas e imprecisas.
