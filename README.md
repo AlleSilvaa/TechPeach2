@@ -3,6 +3,7 @@
 
                                       TechPeach - Descrição do Projeto
 ![image](https://github.com/AlleSilvaa/TechPeach/assets/126684613/9783be37-be88-4a69-9629-dbc7f67624d6)
+
                                       Descrição do problema a resolver
 
 O TechPeach utiliza inteligência artificial e análise de dados para compreender detalhadamente as preferências dos usuários, gerando itinerários sob medida adaptados às suas preferências. Além disso, estabelece parcerias com estabelecimentos locais para oferecer ofertas especiais aos usuários, proporcionando uma experiência de viagem mais gratificante e alinhada com suas expectativas.
@@ -10,7 +11,7 @@ O TechPeach utiliza inteligência artificial e análise de dados para compreende
 Essa abordagem não só simplifica o planejamento da viagem, mas também aumenta a satisfação do cliente, impulsionando a inovação no setor de turismo. O TechPeach promove uma conexão mais significativa entre viajantes e destinos, permitindo que descubram experiências autênticas e exclusivas. Com uma plataforma intuitiva e interativa, os usuários podem explorar e reservar atividades personalizadas de forma conveniente, elevando suas expectativas e proporcionando jornadas memoráveis. Essa inovação não apenas impulsiona o sucesso do TechPeach, mas também redefine os padrões de excelência no planejamento de viagens personalizadas.
 
 
-           Descrição dos objetivos da solução idealizada (peso 20%)
+                Descrição dos objetivos da solução idealizada (peso 20%)
 
 Existem várias plataformas e serviços no mercado que buscam solucionar desafios semelhantes ao do TechPeach, oferecendo recomendações personalizadas e facilitando o planejamento de viagens. Abaixo estão alguns exemplos de produtos e soluções semelhantes:
 
