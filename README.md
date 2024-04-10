@@ -3,6 +3,7 @@
 
                                       TechPeach - Descrição do Projeto
 ![image](https://github.com/AlleSilvaa/TechPeach/assets/126684613/9783be37-be88-4a69-9629-dbc7f67624d6)
+
                                       Descrição do problema a resolver
 
 O TechPeach utiliza inteligência artificial e análise de dados para compreender detalhadamente as preferências dos usuários, gerando itinerários sob medida adaptados às suas preferências. Além disso, estabelece parcerias com estabelecimentos locais para oferecer ofertas especiais aos usuários, proporcionando uma experiência de viagem mais gratificante e alinhada com suas expectativas.
